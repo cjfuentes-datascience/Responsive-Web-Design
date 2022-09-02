@@ -83,5 +83,6 @@ Thank you for taking the time to help us improve the platform
 
   <!-- text area box -->
   <textarea></textarea>
+  <input id = "submit" type="submit"></input>
 
 </form>
